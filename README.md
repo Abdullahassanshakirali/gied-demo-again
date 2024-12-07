@@ -28,3 +28,20 @@ second time
     git add .
     git commit -m "any message"
     git push
+
+##Branching
+   - step1: to check to which branch your'e
+     - eg: `git branch `
+     - step2: to move and creat new branch
+     - eg: 
+ ## upstraing remote and local branch
+ - task/development-branch
+        - branching code push 
+
+pull request to  balance 
+main & task/development-branch 
+note: pull request always balance git remote branches
+
+now if we want ti balance local main & task/development-branch 
+- git check out main 
+- git pull (to take the code form git main branch)
